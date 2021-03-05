@@ -1,0 +1,15 @@
+qc_id,id,name,basin,icon_url
+"0","1",Sabrata Basin,,./0.png
+"1","2",Benghazi Basin,Sirt,./0.png
+"2","3",Ajdabiya Trough,Sirt,./0.png
+"3","4",Maradah Trough,Sirt,./0.png
+"4","5",Marmarica trough,sirt,./0.png
+"5","6",Darnah trough,Sirt,./0.png
+"6","7",Ash Shulaydimah trough,Sirt,./0.png
+"7","8",Eastern Embayment,Sirt,./0.png
+"8","9",Lower Sirt Slope,Sirt,./0.png
+"9","11",Sirt Slope,Sirt,./0.png
+"10","13",Abu Tumayan Trough,Sirt,./0.png
+"11","13",Awbari Trough,Murzuq,./0.png
+"12","14",Awaynat Trough,Murzuq,./0.png
+"13",,Zallah Trough,Sirt,./0.png

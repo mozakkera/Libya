@@ -1,0 +1,25 @@
+qc_id,id,name,type,icon_url
+"0","1",Lampedusa Platform,"1",./0.png
+"1","2",Melita Platform,,./0.png
+"2","3",Medina Platform,,./0.png
+"3","6",Malta,,./0.png
+"4","8",Jarrafah Platform,,./0.png
+"5","11",Cyrenaica ridge,,./0.png
+"6","11",Jabal Al Akhdar Uplift,,./0.png
+"7","12",Marmarica uplift,,./0.png
+"8","12",Cyrenaica Platform,,./0.png
+"9","13",Siwah High,,./0.png
+"10","14",Jabjub High,,./0.png
+"11",,Amal Platform,,./0.png
+"12","15",Tazirbu Ridge,,./0.png
+"13",,Zaltan Platform,,./0.png
+"14","16",Jahamah Platform,,./0.png
+"15","17",Zahrah-Hufrah Platform,,./0.png
+"16","18",Waddan Platform,,./0.png
+"17","19",Bayda Platform,,./0.png
+"18","19",Tibisti Arch,,./0.png
+"19","20",Tibisti Tripoli Arch,,./0.png
+"20","21",Dahar Arch,,./0.png
+"21","22",Nafusah Arch,,./0.png
+"22","23",Al Qardaf High,,./0.png
+"23","24",Atshan Saddle,,./0.png
